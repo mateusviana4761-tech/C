@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Isso é um comentário de uma única linha
 
     printf("Hello, World!\n");
